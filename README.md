@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farooqpk
 - 👀 I’m passionated in coding 
-- 🌱 I’m currently learning nodejs 
+- 🌱 I’m currently learning mern stack 
 
 
 <!---

@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @farooqpk
-- 👀 I’m passionated in coding 
-- 🌱 I’m currently learning mern stack 
+# Ummar Farooq
 
+Learning MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
+
+## Skills
+- Node.js
+- Express.js
+- MongoDB
+- React
+- Mongoose
+- Docker
+- Git
+
+## Project
+- [Taste-a-Dish](https://github.com/farooqpk/Taste-a-Dish)
+
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ummar-farooq-70865a220/).
 
 <!---
 farooqpk/farooqpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

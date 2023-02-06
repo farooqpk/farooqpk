@@ -1,6 +1,6 @@
 # Ummar Farooq
 
-Learning MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
+Iam a MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
 
 ## Skills
 - Node.js
@@ -9,7 +9,7 @@ Learning MERN stack developer, always eager to explore new technologies and find
 - React
 - Mongoose
 - Docker
-- Git
+- Git etc..
 
 ## Project
 - [Taste-a-Dish](https://github.com/farooqpk/Taste-a-Dish)

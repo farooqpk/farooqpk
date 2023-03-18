@@ -1,6 +1,6 @@
 # Ummar Farooq
 
-Iam a MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
+I am a MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
 
 ## Skills
 - Node.js
@@ -11,13 +11,11 @@ Iam a MERN stack developer, always eager to explore new technologies and finding
 - Docker
 - Git etc..
 
-## Project
-- [Taste-a-Dish](https://github.com/farooqpk/Taste-a-Dish)
+## GitHub Stats
+![Ummar's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooqpk&show_icons=true)
 
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqpk)](https://github.com/farooqpk)
+ 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ummar-farooq-70865a220/).
-
-<!---
-farooqpk/farooqpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

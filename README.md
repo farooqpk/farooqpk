@@ -8,6 +8,8 @@ I am a MERN stack developer, always eager to explore new technologies and findin
 - MongoDB
 - React
 - Mongoose
+- Prisma
+- Socket.io
 - Docker
 - Git etc..
 

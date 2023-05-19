@@ -9,6 +9,7 @@ I am a MERN stack developer, always eager to explore new technologies and findin
 - React
 - Mongoose
 - Prisma
+- Typescript
 - Socket.io
 - Docker
 - Git etc..

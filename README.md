@@ -1,22 +1,27 @@
-# Ummar Farooq
 
-I am a MERN stack developer, always eager to explore new technologies and finding solutions to complex problems.
+<h1 align="center">Ummar Farooq</h1>
 
-## Skills
-- Node.js
-- Express.js
-- MongoDB
-- React
-- Mongoose
-- Redis
-- Prisma
-- Typescript
-- Socket.io
-- Docker
-- Git etc..
+<p align="center">
+  I am a MERN stack developer, always eager to explore new technologies and find solutions to complex problems.
+</p>
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqpk)](https://github.com/farooqpk)
- 
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ummar-farooq-70865a220/).
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,mongodb,redis,prisma,postman,docker,git,react,redux,nextjs,tailwind,firebase" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqpk&layout=compact" />
+</p>
+<br>
+<p align="center">
+  Feel free to connect with me on 
+  <a href="https://www.linkedin.com/in/ummar-farooq-70865a220/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn" height="20">
+  </a>
+</p>

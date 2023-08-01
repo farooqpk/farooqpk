@@ -2,7 +2,7 @@
 <h1 align="center">Ummar Farooq</h1>
 
 <p align="center">
-  I am a MERN stack developer, always eager to explore new technologies and find solutions to complex problems.
+  I am a Full stack developer, always eager to explore new technologies and find solutions to complex problems.
 </p>
 
 <br>

@@ -1,15 +1,16 @@
 
-<h1 align="center">Ummar Farooq</h1>
+<h1 align="center">Hi 👋, I'm Ummarfarooq</h1>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
-<p align="center">
-  I am a Full stack developer, always eager to explore new technologies and find solutions to complex problems.
-</p>
+<img align="center" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooqpk&label=Profile%20views&color=0e75b6&style=flat" alt="farooqpk" /> </p>
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,mongodb,redis,postgresql,prisma,postman,docker,react,redux,nextjs,tailwind,firebase,nestjs,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,mongodb,redis,postgresql,prisma,postman,docker,react,redux,nextjs,tailwind,firebase,nestjs,rabbitmq,nginx,mui,linux" />
   </a>
 </p>
 

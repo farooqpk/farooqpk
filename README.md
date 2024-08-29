@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ummar farooq</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif">
 

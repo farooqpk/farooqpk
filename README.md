@@ -4,7 +4,6 @@
 
 <img align="center" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooqpk&label=Profile%20views&color=0e75b6&style=flat" alt="farooqpk" /> </p>
 
 <br>
 
